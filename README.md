@@ -6,3 +6,6 @@ https://github.com/Mauricio-Urrego/Product-Price-Miner
 
 OfficeTrack CSV auto downloader w/ import to SQL DB:  
 https://github.com/Mauricio-Urrego/OfficeTrack-Miner
+
+Power Design Contract Detail Mining:  
+https://github.com/Mauricio-Urrego/Power-Design-Data-Mining
